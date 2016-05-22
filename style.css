@@ -1,0 +1,208 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    border-style: solid;
+    border-color: blue;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+header {
+  background-color: #003a65;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;;
+}
+
+.header__motto {
+  font-style: italic;
+}
+
+.header__motto, .header__row {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 20px;
+  margin-left: 50px
+}
+
+.header__list {
+  display: inline-block;
+  font-size: 13px;
+  margin-right: 10px;
+
+}
+
+.container__motto {
+  text-align: center;
+  margin: 20px;
+  font-size: 150%;
+  color: #003a65;
+  font-family:sans-serif;
+  text-transform: uppercase;
+}
+
+.container__block img, .container__text {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.container__text {
+  width: 170px;
+  height: 130px;
+}
+
+.container__block {
+  width: 270px;
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  margin-left: 15px;
+}
+
+.container__text span {
+  display: block;
+}
+
+.container__details span {
+  display: block;
+}
+
+.lower-level__ad {
+  width: 400px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 15px
+}
+
+.lower-level img, .lower-level__box {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.lower-level__box {
+  width: 290px;
+  color: indianred;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lower-level__text {
+  text-transform: uppercase;
+}
+
+.lower-level {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.container__ads {
+  border-bottom: 2px;
+  border-style: solid;
+  border-color: #eee;
+  padding-bottom: 30px;
+  width: 100%;
+
+}
+
+.container {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container__sale {
+  margin: 0px 10px 0px 0px;
+  padding: 5px;
+  color: white;
+  background-color: indianred;
+  text-transform: uppercase;
+  display: block;
+}
+
+.container__sale-blue {
+  margin: 0px 10px 0px 0px;
+  padding: 5px;
+  color: white;
+  background-color: #003a65;
+  text-transform: uppercase;
+  display: block;
+}
+
+.container__first-line{
+  color: #003a65;
+  font-weight: bold;
+  font-size: 12px;
+  padding-bottom: 10px;
+  text-transform: uppercase;
+}
+
+.container__second-line {
+  font-size: 5px;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+
+.container__tcs {
+  font-size: 2px;
+  margin: 10px 0 2px 0;
+  font-family: ;
+}
+
+.container__bundle {
+  margin: 5px 0 5px 0;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.container__bundle--italics {
+  margin: 5px 0 5px 0;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+}

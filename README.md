@@ -1,0 +1,1 @@
+This is a mockup of a Best Buy page for practice.

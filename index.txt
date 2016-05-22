@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html class lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Best Buy Mockup</title>
+  </head>
+  <body>
+    <header>
+      <section class="motto"><i>Expert Service. Unbeatable Price</i></section>
+      <ul class="website navigation">
+        <li>Weekly Ad</li>
+        <li>Credit Cards</li>
+        <li>Gift Cards</li>
+        <li>Gift Ideas</li>
+        <li>Registry</li>
+        <li>Order Status</li>
+        <li>&sect Store Locator</li>
+      </ul>
+    </header>
+    <section class="ad">
+      <img src="http://placehold.it/1000x500" alt="4K TV Ads">
+    </section>
+    <section>
+      <span id="caps">Expert <b>Service</b>. Unbeatable <b>Price</b></span>
+      <div>
+        <img src="http://placehold.it/70x70">
+        <ul>
+          <li id="caps">Download the Best Buy Mobile App</li>
+          <li>Text APP to 332211 to download. *</li>
+          <li><a href="#">find out about the app &gt;</a></li>
+          <li id="tcs"><span>*Message and data rates may apply</span></li>
+        </ul>
+      </div>
+      <div>
+        <img src="http://placehold.it/70x70">
+        <ul>
+          <li id="caps"><span>Free Shipping on orders $35 and up</span></li>
+          <li><span>No Minimum for My Best Buy&reg; Elite and Elite Plus members</span></li>
+          <li><a href="#">See free shipping details &gt;</a></li>
+        </ul>
+      </div>
+      <div>
+        <img src="http://placehold.it/70x70">
+        <ul>
+          <li id="caps"><span>Price match guarantee</span></li>
+          <li><a href="#">See how it works &gt;</a></li>
+        </ul>
+      </div>
+    </section>
+    <section>
+      <div class="special-offer">
+        <span id="caps"><b>Cell phone offer</b></span>
+        <img src="http://placehold.it/300x170">
+        <ul>
+          <li id="caps"><span>free lg 32" class* smart tv</span></li>
+          <li><span>when you buy and activate an LG G5 with 2-year contract or monthly installment plan.</span></li>
+          <li id="tcs"><span>Terms and conditions apply</span></li>
+          <li><a href="#">Shop cell phone offer &gt;</a></li>
+        </ul>
+      </div>
+      <div class="special-offer">
+        <span id="caps"><b>New Video Game Pre-Order</b></span>
+        <img src="http://placehold.it/300x170">
+        <ul>
+          <li id="caps"><span>Homefront: The revolution</span></li>
+          <li><span>Free $10 gift card with game in SteelBook packaging. Only @ Best Buy.</span></li>
+          <li><a href="#">Pre-order Homefront: The revolution &gt;</a></li>
+        </ul>
+      </div>
+      <div class="special-offer">
+        <span id="caps"><b>Microsoft Sale</b></span>
+        <img src="http://placehold.it/300x170">
+        <ul>
+          <li id="caps"><span>Save up to $150 on select surface pro 4</span></li>
+          <li id="tcs"><span>keyboard sold seperately.</span></li>
+          <li><a href="#">Shop Surface Pro 4 &gt;</a></li>
+        </ul>
+      </div>
+    </section>
+    <hr>
+    <footer>
+      <div>
+        <img src="http://placehold.it/80x80">
+        <span id="caps">A great deal, today only</span> <br>
+        <a href="#">Don't miss out on this deal &gt;</a>
+      </div>
+      <div>
+        <img src="http://placehold.it/80x80">
+        <span id="caps">Clearance, Open-box and more</span> <br>
+        <a href="#">Save when you shop the Best Buy Outlet &gt;</a>
+      </div>
+    </footer>
+  </body>
+</html>
